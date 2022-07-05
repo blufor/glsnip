@@ -2,8 +2,8 @@
 
 ## Features
 
-- [v] Create snippets
-- [v] Delete snippets
+- [x] Create snippets
+- [x] Delete snippets
 - [ ] Update snippets
 - [ ] List snippets
 
