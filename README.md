@@ -10,7 +10,7 @@
 ## Installation
 
 ```
-go install github.com/blufor/glsnip
+go install github.com/blufor/glsnip@latest
 ```
 
 Make sure you have these ENV variables set-up:
